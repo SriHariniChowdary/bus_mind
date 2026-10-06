@@ -8,3 +8,4 @@ geopy>=2.4,<3
 folium>=0.17,<1
 streamlit-folium>=0.23,<1
 xgboost
+SQLAlchemy
